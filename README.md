@@ -6,9 +6,15 @@
 
 <img src="./Images/game_complete.png" alt="game complete screenshot">
 
-###
+#### A short, fun game using multiplication to tell you what league you would be in across the galaxy!
 
-A short, fun game using multiplication to tell you what league you would be in across the galaxy!
+### This game demonstrates:
+
+- Assigning variables as double, int, and string to create a diverse game
+- Using std::cin to store player input and use that throughout the code
+- Using a series of if/else if conditions to determine what league the player is entered into dependent on their Earth weight
+- Using a series of if/else if conditions to determine what planet the player has chosen, and the calculation to show their 'new' weight on other planets
+- Using std::cout to display messages to the player and create a dynamic, immersive game.
 
 ## How to use
 
